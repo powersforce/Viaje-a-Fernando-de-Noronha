@@ -1,0 +1,19 @@
+.titulo {
+  border: 5px solid #005e19;
+  border-radius: 10px;
+  background-color: #008000;
+  color:white
+}
+
+.imagem {
+  margin-right: 10px;
+  width: auto;
+  border-style: double;
+  border-radius: 20px;
+}
+
+.estetica {
+  border: 5px solid #855b0f;
+  border-radius: 10px;
+  background-color: #ffa600;
+}
